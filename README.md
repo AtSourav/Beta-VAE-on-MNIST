@@ -1,3 +1,5 @@
-# CatsnDogs_VAE
+# Beta-VAE-on-MNIST
 
-Building and training a VAE on our CatsnDogs dataset to generate new images.
+Building and training a beta VAE on the MNIST dataset and comparing the effect of different beta values.
+
+
